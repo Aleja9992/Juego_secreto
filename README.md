@@ -33,6 +33,3 @@ Clonar este repositorio:
 git clone https://github.com/tuusuario/juego-numero-secreto.git
 
 2. Abrir el archivo index.html en tu navegador.
-Editar
-git clone https://github.com/tuusuario/juego-numero-secreto.git
-Abrir el archivo index.html en tu navegador.
