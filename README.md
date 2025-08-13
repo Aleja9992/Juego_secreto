@@ -2,7 +2,7 @@
 Juego desarrollado como parte del curso "Lógica de Programación" de Oracle Next Education.
 El objetivo es adivinar el número secreto generado aleatoriamente por el sistema.
 
-🚀 Características
+ Características
 Generación aleatoria de números sin repetición.
 
 Validaciones de entrada para evitar errores.
@@ -15,7 +15,7 @@ Reinicio rápido de la partida.
 
 Interfaz responsiva y estilizada con CSS3.
 
-🖥 Tecnologías usadas
+ Tecnologías usadas
 HTML5
 
 CSS3
@@ -25,7 +25,7 @@ JavaScript
 📷 Vista previa
 (Aquí podrías poner una captura de pantalla o un GIF del juego)
 
-📂 Cómo ejecutar
+ Cómo ejecutar
 Clonar este repositorio:
 
 1.
