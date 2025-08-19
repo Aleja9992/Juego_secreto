@@ -1,4 +1,4 @@
--Juego del Número Secreto
+Juego del Número Secreto
 Juego desarrollado como parte del curso "Lógica de Programación" de Oracle Next Education.
 El objetivo es adivinar el número secreto generado aleatoriamente por el sistema.
 
@@ -22,7 +22,7 @@ CSS3
 
 JavaScript
 
-📷 Vista previa
+ Vista previa
 (Aquí podrías poner una captura de pantalla o un GIF del juego)
 
  Cómo ejecutar
