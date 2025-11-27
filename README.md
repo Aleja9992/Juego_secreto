@@ -22,10 +22,8 @@ CSS3
 
 JavaScript
 
- Vista previa
-(Aquí podrías poner una captura de pantalla o un GIF del juego)
 
- Cómo ejecutar
+Cómo ejecutar
 Clonar este repositorio:
 
 1.
